@@ -46,4 +46,15 @@ Front-end Engineer, based in BeiJing, at Kuaishou Technology.
         />
         <img src="https://github-readme-stats.vercel.app/api?username=Shabi-x&show_icons=true" alt="GitHub Stats" />
     </picture>
+    <picture>
+        <source 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabi-x&theme=tokyonight&layout=compact&langs_count=8" 
+            media="(prefers-color-scheme: dark)"
+        />
+        <source 
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabi-x&theme=default&layout=compact&langs_count=8" 
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabi-x&layout=compact" alt="Top Languages" />
+    </picture>
 </p>
