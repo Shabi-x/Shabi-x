@@ -34,4 +34,16 @@ Front-end Engineer, based in BeiJing, at Kuaishou Technology.
   </a>
 </p>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shabi-x&theme=tokyonight&show_icons=true" height="260px" width="auto">
+<p align="center">
+    <picture>
+        <source 
+            srcset="https://github-readme-stats.vercel.app/api?username=Shabi-x&theme=tokyonight&show_icons=true&hide=contribs&rank_icon=github" 
+            media="(prefers-color-scheme: dark)"
+        />
+        <source 
+            srcset="https://github-readme-stats.vercel.app/api?username=Shabi-x&theme=default&show_icons=true&hide=contribs&rank_icon=github" 
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=Shabi-x&show_icons=true" alt="GitHub Stats" />
+    </picture>
+</p>
