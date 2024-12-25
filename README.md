@@ -8,7 +8,7 @@
 
 Born in 2004.06.18,China,Wuxi
 
-[welcome to visit my Blog:shabix.fun](https://shabix.fun/)
+welcome to visit [my Blog:shabix.fun](https://shabix.fun/)
 
 **🎓 Education:**
 
