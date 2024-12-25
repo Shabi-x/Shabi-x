@@ -7,7 +7,7 @@
 ## 👯 About me
 
 Born in 2004.06.18,China,Wuxi
-
+[myBlog](https://shabix.fun/)
 **🎓 Education:**
 
 
