@@ -1,6 +1,6 @@
-﻿# Shabi-x
+﻿# Shabix
 
-<h2>Hello Everyone, I am Shabi-x, a web developer from China.</h2>
+<h2>Hello Everyone, I am Shabix, a web developer from China.</h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
