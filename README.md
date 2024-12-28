@@ -1,34 +1,36 @@
-﻿# Shabix
+# Shabix
 
-<h2>Hello Everyone, I am Shabix, a web developer from China.</h2>
+<h2>大家好，我是Shabix，一名来自中国的Web开发者。</h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-## 👯 About me
+## 👯 关于我
 
-Born in 2004.06.18,China,Wuxi
+2004年6月18日出生于中国无锡，热爱前端技术，热爱参与开源社区贡献。
 
-welcome to visit [my Blog:shabix.fun](https://shabix.fun/)
+##  🪁 个人博客
+欢迎访问[shabix.fun](https://shabix.fun/)
 
-**🎓 Education:**
+如果有合适的前端开发岗位，或许你也可以看看我的简历[我的简历](https://resume.shabix.fun/)
+
+##  🎓 教育背景 
+
+- 2019.09 - 2022.06 江苏省南菁高级中学
+- 2022.09 - 2026.06 南京邮电大学
+
+##   💼 目前工作 
+
+从2024.11至今
+前端开发实习生，就职于叠纸游戏（上海 五角场），恋与深空相关游戏性能数据展示中台。
+
+从2024.07到2024.11
+前端开发实习生，就职于快手（北京 西二旗），负责财务中台，通讯工具Kim铁豆模块的搭建者。
+
+从2023.7至今
+前端负责人，青柚工作室(南京 仙林)，负责面向校内同学校园服务的小程序，web开发。
 
 
-- 2019.09-2022.06 Nanjing High School of Jiangsu Province
-- 2022.09-2026.06 Nanjing University Of Posts And Telecommunications
-
-**💼 Currently working as:**
-
-From 2024.11 to now
-Front-end Engineer, based in Shanghai, at PaperGames.
-
-From 2024.07 to 2024.11
-Front-end Engineer, based in BeiJing, at Kuaishou Technology.
-
-<!-- **🪁 Personal Blog:**
-
-[Wall-e の Paradise](https://www.qirencloud.com) -->
-
-## 💡Technology stack
+## 💡 相关技术栈
 
 <p align="center">
   <a href="https://skillicons.dev">
