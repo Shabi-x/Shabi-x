@@ -36,35 +36,7 @@
   </a>
 </p>
 
-<div align="center">
-    <table>
-        <tr>
-            <td>
-                <picture>
-                    <source 
-                        srcset="https://github-readme-stats.vercel.app/api?username=Shabi-x&theme=tokyonight&show_icons=true&hide=contribs&rank_icon=github&line_height=30" 
-                        media="(prefers-color-scheme: dark)"
-                    />
-                    <source 
-                        srcset="https://github-readme-stats.vercel.app/api?username=Shabi-x&theme=default&show_icons=true&hide=contribs&rank_icon=github&line_height=30" 
-                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                    />
-                    <img src="https://github-readme-stats.vercel.app/api?username=Shabi-x&show_icons=true&line_height=30" alt="GitHub Stats" height="195px" />
-                </picture>
-            </td>
-            <td>
-                <picture>
-                    <source 
-                        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabi-x&theme=tokyonight&layout=compact&langs_count=8" 
-                        media="(prefers-color-scheme: dark)"
-                    />
-                    <source 
-                        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabi-x&theme=default&layout=compact&langs_count=8" 
-                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                    />
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabi-x&layout=compact&langs_count=8" alt="Top Languages" height="195px" />
-                </picture>
-            </td>
-        </tr>
-    </table>
+<div align="center" >
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shabi-x&theme=merko&show_icons=true" height="170px">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shabi-x&layout=compact&theme=merko" height="170px">
 </div>
