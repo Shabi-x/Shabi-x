@@ -1,7 +1,7 @@
 # Shabix
 
 ##  🪁 个人博客
-欢迎访问[我的博客](https://shabix.fun/)
+欢迎访问[我的博客](https://me.shabix.fun/)
 
 或许你也可以看看我的简历[26届 前端实习生 南邮 梁少峻](https://resume.shabix.fun/)
 
