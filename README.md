@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,js,ts,sass,jest,git,webpack,nodejs,nestjs,md,vite,graphql,pnpm" />
+    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,js,ts,golang,git,webpack,nodejs,nestjs,md" />
   </a>
 </p>
 
@@ -34,3 +34,4 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shabi-x&theme=swift&show_icons=true" height="170px">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shabi-x&layout=compact&theme=swift" height="170px">
 </div>
+
