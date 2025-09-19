@@ -30,8 +30,4 @@
   </a>
 </p>
 
-<div align="center" >
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shabi-x&theme=swift&show_icons=true" height="170px">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shabi-x&layout=compact&theme=swift" height="170px">
-</div>
 
