@@ -26,8 +26,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,js,ts,golang,git,webpack,nodejs,nestjs,md" />
+    <img src="https://skillicons.dev/icons?i=react,vue,golang,js,ts,git,webpack,nodejs,nestjs,md" />
   </a>
 </p>
+
 
 
