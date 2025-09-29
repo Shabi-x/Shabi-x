@@ -1,16 +1,16 @@
 # Shabix
 
-##  🪁 个人博客
-欢迎访问[我的博客](https://me.shabix.fun/)
+## 个人博客
+欢迎访问 https://me.shabix.fun/
 
-或许你也可以看看我的简历[26届 前端实习生 南邮 梁少峻](https://resume.shabix.fun/)
+或许你也可以看看我的简历 https://resume.shabix.fun/
 
-##  🎓 教育背景 
+## 教育背景
 
 - 2019.09 - 2022.06 江苏省南菁高级中学
 - 2022.09 - 2026.06 南京邮电大学 软件工程
 
-##   💼 目前工作 
+## 目前工作
 
 从 2025.04 - 2025.09
 前端开发实习生，就职于腾讯游戏（深圳 南山区）。
@@ -19,17 +19,12 @@
 前端开发实习生，就职于快手（北京 西二旗）。
 
 从 2023.07 至今
-前端负责人，[青柚工作室](https://qingyou.njupt.edu.cn/)(南京 仙林)
+前端负责人， https://qingyou.njupt.edu.cn/ (南京 仙林)
 
-
-## 💡 相关技术栈
+## 相关技术栈
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,golang,js,ts,git,webpack,nodejs,nestjs,md" />
   </a>
 </p>
-
-
-
-
