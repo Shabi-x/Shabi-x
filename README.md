@@ -10,9 +10,12 @@
 2024.07 - 2024.11 前端开发实习生 | 快手（北京 西二旗）  
 2023.07 - 至今 前端负责人 | [青柚工作室](https://qingyou.njupt.edu.cn/)（南京 仙林） 
 
+#
+🔗 更多关于我的信息：[个人网站](https://me.shabix.fun/) 
 
-🔗 [个人博客](https://me.shabix.fun/) | 📄 [个人简历](https://resume.shabix.fun/)  
+📄 或许可以看看我的简历：[个人简历](https://resume.shabix.fun/)  
 
 ### 技术栈  
 ![技术栈](https://skillicons.dev/icons?i=react,vue,golang,js,ts,git,webpack,nodejs,nestjs,md&perline=10&size=30)  
+
 
